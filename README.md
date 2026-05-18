@@ -6,7 +6,7 @@ This project addresses the critical challenge of optimizing digital marketing bu
 
 📊 Dashboard Overview \
 Page 1: Campaign Optimization Dashboard \
-Executive KPI Cards: Real-time tracking of ad spend, revenue, and ROAS
+Executive KPI Cards: Tracking of ad spend, revenue, and ROAS
 Platform Comparison: Side-by-side analysis of Google Ads, Meta Ads, and TikTok Ads performance
 Campaign Analysis: CPC vs. CTR comparisons by campaign type and ROAS by industry
 Interactive Filtering: Drill down capabilities by platform, campaign type, and industry segment \
