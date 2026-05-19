@@ -1,5 +1,5 @@
 Campaign Performance Intelligence
-A comprehensive Power BI dashboard solution for analyzing advertising performance across Google Ads, Meta Ads, and TikTok Ads platforms.
+A comprehensive Power BI dashboard solution for analyzing advertising performance across Google Ads, Meta Ads, and TikTok Ads platforms with data cleaning using Python.
 
 🎯 Objective \
 This project addresses the critical challenge of optimizing digital marketing budgets by providing unified visibility into campaign performance across multiple platforms, enabling data-driven budget allocation decisions. 
